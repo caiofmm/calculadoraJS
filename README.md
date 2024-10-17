@@ -1,3 +1,3 @@
 # Calculadora JavaScript 🖥
 
-Nas pastas tem uma calculadora em JavaSript  e outros códigos tb em js. 
+Nas pastas possuem uma calculadora em JavaSript e outros códigos também em JS. 
