@@ -1,2 +1,3 @@
-Calculadora JavaSript 🖥
-Nas pastar tem uma calculadora em JavaSript e mais alguns códigos.
+# Calculadora JavaSript 🖥
+
+Nas pastas tem uma calculadora em JavaSript  e outros códigos tb em js. 
